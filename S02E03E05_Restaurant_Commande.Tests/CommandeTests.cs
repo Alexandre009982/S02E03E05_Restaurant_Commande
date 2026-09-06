@@ -3,14 +3,6 @@ namespace Restaurant.Tests;
 
 public class CommandeTests
 {
-    //[Fact]
-    //public void test()
-    //{
-    //    //ARANGE
-    //    //ACT
-    //    //ASSERT
-    //}
-
     [Fact]
     public void estVide_SousTotal0m_0Articles()
     {

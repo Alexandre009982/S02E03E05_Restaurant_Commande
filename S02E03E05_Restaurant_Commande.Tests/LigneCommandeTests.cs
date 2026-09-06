@@ -3,13 +3,6 @@ namespace LigneCommandeTest;
 
 public sealed class LigneCommandeTests
 {
-    //[Fact]
-    //public void test()
-    //{
-    //    //ARANGE
-    //    //ACT
-    //    //ASSERT
-    //}
     [Fact]
     public void CalculerTotal_AvecAucunRabais_29m()
     {
